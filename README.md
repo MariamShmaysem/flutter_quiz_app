@@ -1,0 +1,1 @@
+It is fictional personality quiz that asks the user 4 main questions then gives them the result on the screen with a button that allows the user to retake the test. It is built using basic and custom widgets.  
